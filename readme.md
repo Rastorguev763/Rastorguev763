@@ -50,11 +50,7 @@
 
 | Проект | Стек | Описание |
 |--------|------|----------|
-| [`ai-fastapi-template`](https://github.com/Rastorguev763/ai-fastapi-template) | FastAPI, async, Redis, PostgreSQL | Шаблон для асинхронных API-сервисов |
-| `telegram-cron-bot` | Aiogram, Celery, Redis | Бот-напоминалка с задачами по расписанию |
-| `data-spill-analyzer` | Pandas, YOLOv5, OpenCV | Анализ изображений разлива нефти + отчёты |
-
-_(Добавим проекты, когда нужно — дай ссылки, если хочешь вставить)_
+| [`gitlab-webhook-gateway`](https://github.com/Rastorguev763/gitlab_webhook_gateway) | FastAPI, Python 3.11+, Docker, Telegram API | Сервис для обработки вебхуков GitLab с отправкой уведомлений в Telegram |
 
 ---
 
@@ -68,8 +64,8 @@ _(Добавим проекты, когда нужно — дай ссылки, 
 
 ## 📬 Связь
 
-- Telegram: [@rastorguev_dev](https://t.me/rastorguev_dev)
-- Email: <rastorguev@example.com>
+- Telegram: [@alex_rastorguev](https://t.me/alex_rastorguev)
+- Email: <alex.rastorguev@bk.ru>
 
 ---
 
