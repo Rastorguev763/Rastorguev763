@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend Engineer | Pythonista | Архитектор API</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+FastAPI+%2F+PostgreSQL+%2F+Docker;Async+Python+%7C+Clean+Architecture;RabbitMQ+%2F+Redis+%2F+Prometheus+%2F+Grafana;Production-ready+API+for+real+data+loads" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;FastAPI+%2F+PostgreSQL+%2F+Docker;Async+Python+%2F+Clean+Architecture;RabbitMQ+%2F+Redis+%2F+Grafana;Production-ready+APIs" alt="Typing SVG" />
 </p>
 
 ---
