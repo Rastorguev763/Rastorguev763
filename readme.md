@@ -11,6 +11,7 @@
 
 - 🔧 Пишу **асинхронные микросервисы** на FastAPI и Python 3.11+  
 - 🧱 Проектирую архитектуру backend-систем с разделением ответственности, event-driven подходом и очередями
+- 🤖 Разрабатываю **сервисы с агентами ИИ** для автоматизации бизнес-процессов
 - 🧪 Покрываю код тестами, CI/CD пайплайнами, добавляю линтеры и логирование по стандарту
 - 🧰 Использую PostgreSQL с продуманными индексами, Redis как кэш и брокер, Celery или RabbitMQ для фонов
 - 📊 Настраиваю наблюдаемость: **Loki + Promtail**, **Grafana + Prometheus**, **Loguru**
@@ -31,7 +32,9 @@
   <img src="https://img.shields.io/badge/-Grafana-333?style=for-the-badge&logo=grafana">
   <img src="https://img.shields.io/badge/-Prometheus-333?style=for-the-badge&logo=prometheus">
   <img src="https://img.shields.io/badge/-GitHub%20Actions-333?style=for-the-badge&logo=githubactions">
+  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js">
+  <img src="https://img.shields.io/badge/-Streamlit-333?style=for-the-badge&logo=streamlit">
 </p>
 
 ---
