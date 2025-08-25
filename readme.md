@@ -54,6 +54,7 @@
 | Проект | Стек | Описание |
 |--------|------|----------|
 | [`gitlab-webhook-gateway`](https://github.com/Rastorguev763/gitlab_webhook_gateway) | FastAPI, Python 3.11+, Docker, Telegram API | Сервис для обработки вебхуков GitLab с отправкой уведомлений в Telegram |
+| [`RAG LLM service`](https://github.com/Rastorguev763/rag_service) | FastAPI, Python 3.12, Docker, Qdrant, Frida, OpenRouter | RAG (Retrieval-Augmented Generation) сервис для работы LLM с текстами в чате |
 
 ---
 
